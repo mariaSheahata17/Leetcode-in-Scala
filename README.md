@@ -2,9 +2,10 @@
 Interview questions from Leetcode solved in Scala. 
 
 
-### Easy
+## Easy
 
 #### Arrays
+1. move Zeroes
 
-### Medium
+## Medium
 
