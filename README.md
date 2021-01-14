@@ -7,6 +7,7 @@ Interview questions from Leetcode solved in Scala.
 #### Arrays
 1. move Zeroes
 2. running Sum
+3. Fibonacci Numbers
 
 ## Medium
 
