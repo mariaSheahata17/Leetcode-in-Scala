@@ -1,5 +1,5 @@
 # Leetcode-in-Scala
-Interview questions from Leetcode solved in Scala. 
+Technial interview questions from Leetcode solved in Scala. 
 
 
 ## Easy
