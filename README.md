@@ -1,5 +1,6 @@
 # Leetcode-in-Scala 
 Technial interview questions from Leetcode solved in Scala. 
+The questions are categorized easy and medium based on the Leetcode platform.
 
 
 ## Easy
